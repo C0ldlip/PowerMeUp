@@ -1,0 +1,5 @@
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\bin\Release\PowerMeUp.exe.config
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\bin\Release\PowerMeUp.exe
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\bin\Release\PowerMeUp.pdb
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\obj\Release\PowerMeUp.exe
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\obj\Release\PowerMeUp.pdb

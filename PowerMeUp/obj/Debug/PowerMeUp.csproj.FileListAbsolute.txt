@@ -1,0 +1,6 @@
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\bin\Debug\PowerMeUp.exe.config
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\bin\Debug\PowerMeUp.exe
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\bin\Debug\PowerMeUp.pdb
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\obj\Debug\PowerMeUp.csprojAssemblyReference.cache
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\obj\Debug\PowerMeUp.exe
+C:\Users\coldlip\source\repos\PowerMeUp\PowerMeUp\obj\Debug\PowerMeUp.pdb

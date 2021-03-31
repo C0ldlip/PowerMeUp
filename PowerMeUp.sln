@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerMeUp", "PowerMeUp\PowerMeUp.csproj", "{F352075F-FC66-4F42-8919-9BBB730A560D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F352075F-FC66-4F42-8919-9BBB730A560D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F352075F-FC66-4F42-8919-9BBB730A560D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F352075F-FC66-4F42-8919-9BBB730A560D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F352075F-FC66-4F42-8919-9BBB730A560D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E17FBBD-27F1-4DA3-BA0E-C9369D2BD897}
+	EndGlobalSection
+EndGlobal
