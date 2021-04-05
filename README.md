@@ -1,7 +1,7 @@
 # PowerMeUp
 Add a local admin via a Service running under Administrator or SYSTEM
 
-###Usage
+## Usage
 - Change the code in Service1.cs to your situation (See annotation in code);
 
 - Edit Environment of service to location of PowerMeUp.exe;
